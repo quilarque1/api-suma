@@ -1,8 +1,10 @@
 version: '3.8'
 services:
-  app:
+  api:
+    container_name: api-suma
     build: .
-    volumes:
-      - "./src/:/src/"
     ports:
       - "4000:4000"
+    volumes:
+      - "./src/:/src/"
+    restart: on-failure
