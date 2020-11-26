@@ -1,0 +1,20 @@
+{
+  "name": "api-suma",
+  "version": "1.0.0",
+  "description": "Api encargada de sumar valores dado un parámetro de entrada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilarque1/api-suma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quilarque1/api-suma/issues"
+  },
+  "homepage": "https://github.com/quilarque1/api-suma#readme"
+}
