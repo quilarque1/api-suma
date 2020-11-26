@@ -1,14 +1,13 @@
+const  { obtenerResultado } = require('../utils/suma');
+const { sumaDto } = require('../dto/sumaDto');
 
 class SumaService {
 
-	getSuma(datos) {
-		const suma = sumaDto;
-		return suma || [];
+	getSuma(operacion) {
+		let resultado = obtenerResultado(operacion)
+		console.log('Resultado de la Operacion: ', resultado)
+		return sumaDto(operacion, resultado) || {};
 	}
 }
-const sumaDto = {
-	operacion: '1+2+3+4',
-	resultado: '10'
-};
 
 module.exports = SumaService;

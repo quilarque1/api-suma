@@ -22,6 +22,7 @@
     <list default="true" id="51e7158a-d678-46e8-a416-b8be0ce9c6e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/suma.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/suma.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606357751517</updated>
-      <workItem from="1606357753578" duration="12009000" />
+      <workItem from="1606357753578" duration="22675000" />
     </task>
     <servers />
   </component>
@@ -69,5 +70,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2075" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606407854699">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2075" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.687/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606407854699" />
   </component>
 </project>
