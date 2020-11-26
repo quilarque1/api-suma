@@ -2,7 +2,7 @@
   "name": "api-suma",
   "version": "1.0.0",
   "description": "Api encargada de sumar valores dado un parámetro de entrada.",
-  "main": "index.js",
+  "main": "node src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
