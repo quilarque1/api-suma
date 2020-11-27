@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51e7158a-d678-46e8-a416-b8be0ce9c6e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/suma.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/suma.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/suma.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/suma.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api-resta" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606357751517</updated>
-      <workItem from="1606357753578" duration="22675000" />
+      <workItem from="1606357753578" duration="39887000" />
     </task>
     <servers />
   </component>
@@ -76,5 +75,9 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2075" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.687/1366.0.1920.1040@1366.0.1920.1040" timestamp="1606407854699" />
+    <state x="463" y="98" key="FileChooserDialogImpl" timestamp="1606441181788">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="463" y="98" key="FileChooserDialogImpl/0.0.1366.687/1366.0.1920.1040@0.0.1366.687" timestamp="1606441181788" />
   </component>
 </project>
